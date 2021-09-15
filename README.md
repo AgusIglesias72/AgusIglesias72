@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @AgusIglesias72. I have knowleadge in HTML, CSS (and preproccesors like SCSS), Bootstrap and Javascript. 
-- 👀 I’m interested in Web Develope and Data
+- 👋 Hi, I’m @AgusIglesias72. I am a Front-end Developer 
 - 🌱 I’m currently learning React Js and Python
 - 📫 You can reach in AgusIglesias72@gmail.com 
 
