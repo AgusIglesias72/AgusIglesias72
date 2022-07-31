@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @AgusIglesias72. I am a Front-end Developer 
-- 🌱 I’m currently learning React Js and Python
+- 👋 Hi, I’m @AgusIglesias72. I am a Full Stack Developer
 - 📫 You can reach in AgusIglesias72@gmail.com 
 
 <!---
